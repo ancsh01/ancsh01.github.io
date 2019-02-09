@@ -11,4 +11,4 @@
 - stat.ink
     [spl2](https://stat.ink/@ancsh01/spl2)
 
-- [about me...]()
+- [about me...](aboutme.md)
